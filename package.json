@@ -1,0 +1,23 @@
+{
+  "name": "node-red-gitcodespace-test",
+  "version": "1.0.0",
+  "description": "ADD Comment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1ft-seabass/node-red-gitcodespace-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1ft-seabass/node-red-gitcodespace-test/issues"
+  },
+  "homepage": "https://github.com/1ft-seabass/node-red-gitcodespace-test#readme",
+  "dependencies": {
+    "node-red": "^2.0.5"
+  }
+}
